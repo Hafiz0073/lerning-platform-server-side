@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "0101course06feature",
+        "name": "SQL",
+        "img": "https://gisgeography.com/wp-content/uploads/2021/12/Learn-SQL-Online-Courses.png",
+        "details": "Learn SQL in 6 days, V_ideo Course prov_ides a basic understanding of databases, tables, as well as how to manipulate data with functions like add, edit or delete data from tables and databases. Data retrieval concepts, which includes sorting, filtering, multi-table join, sub-queries and using functions in retrieval statements are discussed in detail.",
+        "feature1": "4.5 hours on-demand v_ideo",
+        "feature2": "1 downloadable resource",
+        "feature3": "Full lifetime access",
+        "feature4": "Access on mobile and TV",
+        "feature5": "certificate of completion",
+        "price": 60
+    },
+    {
+        "_id": "0202course06feature",
+        "name": "Oracle SQL",
+        "img": "https://techgoeasy.com/wp-content/uploads/2016/07/oracle_sql_developer.png",
+        "details": "SQL is w_idely used in databases everywhere. Used by companies everywhere, proficiency with the structured query language is a valuable skill. An Oracle SQL course can teach you the elements of this language and prepare you for the certification. Join over half a million learners and begin Oracle SQL training to improve your database skill set",
+        "feature1": "13 hours on-demand v_ideo",
+        "feature2": "93 articles",
+        "feature3": "Full lifetime access",
+        "feature4": "Access on mobile and TV",
+        "feature5": "certificate of completion",
+        "price": 170
+    },
+    {
+        "_id": "0303course06feature",
+        "name": "MongoDB",
+        "img": "https://www.openlogic.com/sites/default/files/image/2021-06/image-blog-openlogic-what-is-mongodb.png",
+        "details": "MongoDB is a document-oriented data store that is easy to get started with but also scales well as your application grows. It’s schemaless nature allows greater flexibility or changing application requirements. It’s one of the best databases in terms of developer productivity.",
+        "feature1": "13.5 hours on-demand v_ideo",
+        "feature2": "3 articles",
+        "feature3": "Full lifetime access",
+        "feature4": "Access on mobile and TV",
+        "feature5": "certificate of completion",
+        "price": 70
+    },
+    {
+        "_id": "0404course06feature",
+        "name": "PostgreSQL",
+        "img": "https://kinsta.com/wp-content/uploads/2022/03/what-is-postgresql.png",
+        "details": "PostgreSQL has been adopted by a variety of industries as the database management system of choice. PostgreSQL is great for handling scientific data, as well as finance and manufacturing information. Take a course from Udemy and become a PostgreSQL power user.",
+        "feature1": "10 hours on-demand v_ideo",
+        "feature2": "6 articles",
+        "feature3": "Full lifetime access",
+        "feature4": "Access on mobile and TV",
+        "feature5": "certificate of completion",
+        "price": 100
+    },
+    {
+        "_id": "0505course06feature",
+        "name": "MySQL",
+        "img": "https://www.zend.com/sites/default/files/image/2020-04/image-blog-mysql-php.jpg",
+        "details": "Take a top-rated and up-to-date MySQL course on Udemy to learn valuable and practical skills. Whether you want the fundamentals, a deep-dive or specialized topics, Udemy’s got a course on deck. Learn with hands-on projects and gain a competitive edge in your field.",
+        "feature1": "15 hours on-demand v_ideo",
+        "feature2": "30 articles",
+        "feature3": "Full lifetime access",
+        "feature4": "Access on mobile and TV",
+        "feature5": "certificate of completion",
+        "price": 75
+    },
+    {
+        "_id": "0606course06feature",
+        "name": "SQL Server",
+        "img": "https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&w=930",
+        "details": "SQL Server is designed for functionality. Whether you’re interested in using SQL Server for integration services, data analysis, or even machine learning applications, Udemy has a variety of courses to show you how it’s done.",
+        "feature1": "12 hours on-demand v_ideo",
+        "feature2": "35 articles",
+        "feature3": "Full lifetime access",
+        "feature4": "Access on mobile and TV",
+        "feature5": "certificate of completion",
+        "price": 180
+    }
+]
